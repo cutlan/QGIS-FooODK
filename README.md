@@ -1,5 +1,4 @@
-# QGIS-FooODK
-FooODK Plugin 
+# FooODK Plugin - QGIS
 Readme 
 --------------------- 
 # Summary 
@@ -8,7 +7,7 @@ The plugin/program is free software; you can redistribute it and/or modify it un
 
 # Screenshots:
 New Version
-![image](https://github.com/user-attachments/assets/bb064f27-08d8-4158-bc5d-e678be94410e)
+![image](https://github.com/cutlan/QGIS-FooODK/blob/main/fooodk-2025-11-05-01.12.22.png)
 Old Version
 ![image](https://github.com/user-attachments/assets/bb064f27-08d8-4158-bc5d-e678be94410e)
 
