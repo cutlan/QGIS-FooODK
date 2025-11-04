@@ -7,4 +7,8 @@ The plugin utilize the OpenDataKit (ODK) Central API (based on OpenData Standard
 The plugin/program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation. 
 
 # Screenshots:
+New Version
 ![image](https://github.com/user-attachments/assets/bb064f27-08d8-4158-bc5d-e678be94410e)
+Old Version
+![image](https://github.com/user-attachments/assets/bb064f27-08d8-4158-bc5d-e678be94410e)
+
