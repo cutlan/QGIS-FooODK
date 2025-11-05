@@ -5,7 +5,7 @@ The plugin utilize the OpenDataKit (ODK) Central API (based on OpenData Standard
 The plugin/program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation. 
 
 # Screenshots: New Version
-![image](https://github.com/cutlan/QGIS-FooODK/blob/main/fooodk-2025-11-05-01.12.22.png)
+![image](https://github.com/cutlan/QGIS-FooODK/blob/main/fooodk-0.png)
 
 ![image](https://github.com/cutlan/QGIS-FooODK/blob/main/fooodk-1.png)
 
